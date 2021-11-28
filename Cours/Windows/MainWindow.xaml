@@ -1,0 +1,47 @@
+﻿<Window x:Class="Cours.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cours"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="To-do list" Height="400" Width="400" FontSize="14" FontWeight="Bold" Background="Azure" ResizeMode="NoResize">
+    <Grid Margin="5">
+        <StackPanel>
+            <Label Content="To - Do List" Margin="20 5,5,5" VerticalAlignment="Top" HorizontalAlignment="Left" Background="Azure" FontSize="22" FontWeight="Normal"/>
+            <Label Content="----------------------------------------" FontSize="22" FontWeight="Bold" Margin="10,0,10,0"/>
+            <Grid Margin="10,0,10,10">
+                <Label HorizontalAlignment="Left" Content="Add new [ To - do list ] :" FontStyle="Italic" FontSize="14" FontWeight="Bold"/>
+                <Button x:Name="addBtm" Click="addBtm_Click" HorizontalAlignment="Left" Margin="200,0,0,0" Width="100" Content="Add" Style="{StaticResource MaterialDesignFlatDarkBgButton}" Height="Auto"/>
+            </Grid>
+            <Grid Margin="10,0,10,10">
+                <Label HorizontalAlignment="Left" Content="Show my [ To - do list ] :" FontStyle="Italic"/>
+                <Button x:Name="showBtm" Click="showBtm_Click" HorizontalAlignment="Left" Margin="200,0,0,0" Width="100" Content="Show" Style="{StaticResource MaterialDesignFlatDarkBgButton}"/>
+            </Grid>
+            <Grid>
+                <Label FontSize="14" Margin="10,0,0,5" FontStyle="Italic" HorizontalAlignment="Left" Content="Your Plans :"/>
+                <Label FontStyle="Italic" x:Name="countLabel" Content="0" HorizontalAlignment="Center" Margin="140,0,0,0" FontSize="16"/>
+            </Grid>
+            <Grid>
+                <Label  FontSize="14" Margin="10,0,0,5" FontStyle="Italic" HorizontalAlignment="Left" Content="Red Plan :" Background="Azure" Foreground="DarkRed"/>
+                <Label FontStyle="Italic" x:Name="redPlanLabel" Content="0" HorizontalAlignment="Center" Margin="140,0,0,0" Background="Azure" Foreground="DarkRed" FontSize="16"/>
+            </Grid>
+            <Grid>
+                <Label  FontSize="14" Margin="10,0,0,5" FontStyle="Italic" HorizontalAlignment="Left" Content="Blue Plan :" Background="Azure" Foreground="DarkBlue"/>
+                <Label FontStyle="Italic" x:Name="blueLabel" Content="0" HorizontalAlignment="Center" Margin="140,0,0,0" Background="Azure" Foreground="DarkBlue" FontSize="16"/>
+            </Grid>
+            <Grid>
+                <Label  FontSize="14" Margin="10,0,0,5" FontStyle="Italic" HorizontalAlignment="Left" Content="Blue Plan :" Background="Azure" Foreground="DarkGreen"/>
+                <Label FontStyle="Italic" x:Name="greanLabel" Content="0" HorizontalAlignment="Center" Margin="140,0,0,0" Background="Azure" Foreground="DarkGreen" FontSize="16"/>
+            </Grid>
+            <StatusBar Margin="0,10,0,0" VerticalAlignment="Stretch"  >
+                <Label Content="Data: " FontWeight="Bold"/>
+                <Label x:Name="dataLabel" Content="0 " FontWeight="Bold"/>
+                <Label Content="Time: " FontWeight="Bold"/>
+                <Label x:Name="timeLabel" Content="0 " FontWeight="Bold"/>
+            </StatusBar>
+
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,90 @@
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\Cours.exe.config
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\Cours.exe
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\Cours.pdb
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\MaterialDesignColors.dll
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ilchu\source\repos\Cours\Cours\obj\Debug\Cours.csproj.AssemblyReference.cache
+C:\Users\ilchu\source\repos\Cours\Cours\obj\Debug\App.g.cs
+C:\Users\ilchu\source\repos\Cours\Cours\obj\Debug\Cours_MarkupCompile.cache
+C:\Users\ilchu\source\repos\Cours\Cours\obj\Debug\Cours_MarkupCompile.lref
+C:\Users\ilchu\source\repos\Cours\Cours\obj\Debug\App.baml
+C:\Users\ilchu\source\repos\Cours\Cours\obj\Debug\Cours.g.resources
+C:\Users\ilchu\source\repos\Cours\Cours\obj\Debug\Cours.Properties.Resources.resources
+C:\Users\ilchu\source\repos\Cours\Cours\obj\Debug\Cours.csproj.GenerateResource.cache
+C:\Users\ilchu\source\repos\Cours\Cours\obj\Debug\Cours.csproj.CoreCompileInputs.cache
+C:\Users\ilchu\source\repos\Cours\Cours\obj\Debug\Cours.csproj.CopyComplete
+C:\Users\ilchu\source\repos\Cours\Cours\obj\Debug\Cours.exe
+C:\Users\ilchu\source\repos\Cours\Cours\obj\Debug\Cours.pdb
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\SQLite-net.dll
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\System.Buffers.dll
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\System.Memory.dll
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\SQLite-net.xml
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\System.Buffers.xml
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\System.Memory.xml
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ilchu\source\repos\Cours\Cours\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ilchu\source\repos\Cours\Cours\obj\Debug\Cours_Content.g.cs
+C:\Users\ilchu\source\repos\Cours\Cours\obj\Debug\Windows\AddWindow.g.cs
+C:\Users\ilchu\source\repos\Cours\Cours\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\ilchu\source\repos\Cours\Cours\obj\Debug\Windows\AddWindow.baml
+C:\Users\ilchu\source\repos\Cours\Cours\obj\Debug\Windows\MainWindow.baml
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\Cours.exe.config
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\Cours.exe
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\Cours.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\MaterialDesignColors.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\SQLite-net.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\System.Buffers.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\System.Memory.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\SQLite-net.xml
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\System.Buffers.xml
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\System.Memory.xml
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Cours.csproj.AssemblyReference.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Windows\AddWindow.g.cs
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\App.g.cs
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Cours_Content.g.cs
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Cours_MarkupCompile.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Cours_MarkupCompile.lref
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\App.baml
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Windows\AddWindow.baml
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Windows\MainWindow.baml
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Cours.g.resources
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Cours.Properties.Resources.resources
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Cours.csproj.GenerateResource.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Cours.csproj.CoreCompileInputs.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Cours.csproj.CopyComplete
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Cours.exe
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Cours.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Windows\RegisterWindow.g.cs
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Windows\RegisterWindow.baml
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Windows\LoginWindow.g.cs
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Windows\LoginWindow.baml
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Windows\ShowWindow.g.cs
+C:\Users\ilchu\OneDrive\Робочий стіл\WPF\Cours\Cours\obj\Debug\Windows\ShowWindow.baml

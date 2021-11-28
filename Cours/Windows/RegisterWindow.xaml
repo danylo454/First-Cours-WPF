@@ -1,0 +1,26 @@
+﻿<Window x:Class="Cours.Windows.RegOrLoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cours.Windows"
+           xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="RegOrLoginWindow" Height="450" Width="500">
+    <Grid Background="Azure">
+        <Border x:Name="Menu" Margin="20" CornerRadius="40" Background="Snow">
+            <StackPanel x:Name="Menu2">
+                <TextBlock Height="40" Margin="20 0 0 0 " Text="Register" FontSize="30" FontWeight="Bold" />
+                <TextBox TextChanged="TextBox_TextChanged" x:Name="nameTextBox" Margin="5" materialDesign:HintAssist.Hint="Enter your Name" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontSize="15"/>
+                <TextBox TextChanged="TextBox_TextChanged" x:Name="surnameTextBox" Margin="5" materialDesign:HintAssist.Hint="Enter your Surname" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontSize="15"/>
+                <TextBox TextChanged="TextBox_TextChanged" x:Name="loginTextBox" Margin="5" materialDesign:HintAssist.Hint="Enter Login" Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontSize="15"/>
+                <PasswordBox PasswordChanged="passwordTextBox_PasswordChanged" x:Name="passwordTextBox" Margin="5" materialDesign:HintAssist.Hint="Enter Password" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" FontSize="15"/>
+                <PasswordBox PasswordChanged="passwordTextBox_PasswordChanged" x:Name="repitPswdTextBox" Margin="5" materialDesign:HintAssist.Hint="Repeat Password" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" FontSize="15"/>
+                <Grid>
+                <Button Click="cancelBtm_Click" x:Name="cancelBtm" Content="Cancel" HorizontalAlignment="Left" Margin="20" Style="{StaticResource MaterialDesignFlatButton}"/>
+                <Button  IsEnabled="False" Click="registerBtm_Click" x:Name="registerBtm" Content="Register" HorizontalAlignment="Right" Margin="20"/>
+                </Grid>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
